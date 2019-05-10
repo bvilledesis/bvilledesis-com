@@ -1,46 +1,36 @@
 ---
 templateKey: index-page
 title: Bartlesville Indian Association
-image: /img/10268713_1040087259396389_8298663344363027647_n.jpg
+image: /img/capture5.png
 heading: Serving in the Ville
 subheading: Serving the Ville
 mainpitch:
   title: BIA
-  description: >
+  description: >-
     Bartlesville Indian Association is here to create awareness about Indian
     culture and its values in it's culturally rich and diverse institute; by
-    celebrating Indian festivals and organizing cultural events. We also see it
-    as a platform to promote inter-professional relationship between Indian
-    origin and rest of the people in Bartlesville region. Any one interested in
-    our culture and diversity are welcome to join and participate in our events.
+    celebrating Indian festivals and organizing cultural events. 
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  BIA is the ultimate platform to promote inter-professional relationship
+  between people from Indian origin and residents of Bartlesville region. Any
+  one interested in our culture and diversity are welcome to join and
+  participate in our events.
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+    - image: /img/capture3.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
         own beans or just bought your first french press, you’ll find a gadget
         to fall in love with in our shop.
-    - image: /img/tutorials.png
+    - image: /img/capture4.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
         fancy new Chemex but have no clue how to use it? Don't worry, we’re here
         to help. You can schedule a custom 1-on-1 consultation with our baristas
         to learn anything you want to know about coffee roasting and brewing.
         Email us or call the store for details.
-    - image: /img/meeting-space.png
+    - image: /img/capture2.png
       text: >
         We believe that good coffee has the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting
