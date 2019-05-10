@@ -7,10 +7,12 @@ subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why BIA
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Bartlesville Indian Association is here to create awareness about Indian
+    culture and its values in it's culturally rich and diverse institute; by
+    celebrating Indian festivals and organizing cultural events. We also see it
+    as a platform to promote inter-professional relationship between Indian
+    origin and rest of the people in Bartlesville region. Any one interested in
+    our culture and diversity are welcome to join and participate in our events.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
