@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
 title: Bartlesville Indian Association
-image: /img/bia-diwali-2018.png
+image: /img/10268713_1040087259396389_8298663344363027647_n.jpg
 heading: Serving in the Ville
-subheading: Support sustainable farming while enjoying a cup
+subheading: Serving the Ville
 mainpitch:
-  title: Why BIA
+  title: BIA
   description: >
     Bartlesville Indian Association is here to create awareness about Indian
     culture and its values in it's culturally rich and diverse institute; by
